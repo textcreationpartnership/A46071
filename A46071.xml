@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for publishing an act of Parliament, intituled, An Act for the Advancement of the Trade of Linen Manufacture, and for remitting the penalties thereby incurred, and for inlarging several periods of time in the said act contained by the Lord Lieutenant and Council.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46071</idno>
+            <idno type="STC">Wing I625</idno>
+            <idno type="STC">ESTC R36844</idno>
+            <idno type="EEBO-CITATION">16141525</idno>
+            <idno type="OCLC">ocm 16141525</idno>
+            <idno type="VID">104828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1594:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for publishing an act of Parliament, intituled, An Act for the Advancement of the Trade of Linen Manufacture, and for remitting the penalties thereby incurred, and for inlarging several periods of time in the said act contained by the Lord Lieutenant and Council.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>1 sheet ([3] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Given at the Council chamber in Dublin, the 22 day of February, 1666.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Linen industry --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104828:1"/>
+            <head>
+               <figure/>BY THE Lord Lieutenant and Council. A PROCLAMATION For publiſhing an Act of Parliament, intituled, <hi>An Act for the advance<g ref="char:EOLhyphen"/>ment of the Trade of Linen Manufacture,</hi> and for remitting the penalties already thereby incurred, and for inlarging ſeveral periods of time in in the ſaid Act contained.</head>
+            <opener>
+               <signed>ORMONDE,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in and by one Act of Parliament lately paſſed in this His Majeſt. Kingdom of <hi>Ireland,</hi> intituled, <hi>An Act for the advance<g ref="char:EOLhyphen"/>ment of the Trade of Linen Manufacture,</hi> it is declared and enacted in theſe words following, [Whereas the Advance<g ref="char:EOLhyphen"/>ment of the Trade of Linen Manufacture in this Kingdom, would very much conduce to the publique good thereof, May it therefore pleaſe Your Excellent Majeſtie, That in Order thereunto, it may be Enacted, and be it Enacted by the Kings moſt Excellent Majeſtie, by and with the advice and conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament aſſembled, and by the Authority thereof, That no perſon or perſons whatſoever, having any eſtate or intereſt in any Lands in this Kingdom, ſhall at any time after the firſt day of <hi>May,</hi> in the year of our Lord, One thouſand ſix hundred ſixty and ſix, ſet or let to any perſon or perſons, any Cottage or Cabbin, upon any Lands not being within any City or Suburbs thereof, or any walled Town; in this Kingdom, unleſs the perſon or perſons to whom ſuch Cottage or Cabbin upon any Lands not being within any City, or Suburbs thereof, or any walled Town in this Kingdom, unleſs the perſon or perſons to whom ſuch Cottage or Cabbin ſhall be ſo ſet or let, ſhall therewith hold one Acre of Land at leaſt, of Plantation Meaſure, containing One and twenty foot to the Pearch, and ſhall after the firſt day of <hi>February,</hi> One thouſand ſix hundred ſixty and ſix, yearly ſow one Eighth part of ſuch Acre of land with Hemp or Flax, upon pain that every Landlord ſetting or letting any ſuch Cottage or Cabbin, without covenanting with his Tenant to ſow one eighth part of ſuch Acre of Land yearly with Hemp or Flax, ſhall loſe and forfeit the ſum of Forty ſhillings <hi>ſterling</hi> for every ſuch default; And alſo every ſuch Tenant who ſhall not ſow one eighth part of ſuch Acre of land with Hemp or Flax yearly, ſhall loſe and forfeit the ſum of Ten ſhillings <hi>ſterling</hi> for every ſuch default: And be it further Enacted by the Authority aforeſaid, That all and every perſon and perſons, who after the Firſt day of <hi>February,</hi> in the year, One thouſand ſix hundred ſixty and ſix, ſhall plow or till any quantity of lands in this Kingdom, ſhall for every Thirty Acres of the meaſure a<g ref="char:EOLhyphen"/>foreſaid, which he or they ſhall ſo till or plow, ſow, or cauſe to be ſowed, half an Acre of land of like meaſure, with Flax or Hemp, and ſo proportionably for a greater or leſſer quantity of land, upon pain that every perſon, who after the ſaid firſt day of <hi>February,</hi> ſhall plow or till Thirty Acres of land, and ſhall not ſow half an Acre thereof, of the meaſure aforeſaid, with Hemp or Flax (as is above mentioned) ſhall loſe and forfeit the ſum of Five pounds <hi>ſterling,</hi> and upon pain that every perſon who ſhall after the time aforeſaid, plow or till any leſſer quantity of land of the meaſure aforeſaid, and ſhall not ſow Hemp or Flax, according to the aforeſaid proportion, ſhall loſe and forfeit the ſum of Three pounds <hi>ſterling</hi> for every ſuch default. And be it further Enacted by the Authority aforeſaid, That after the Four and twentieth day of <hi>June,</hi> in the year, One thouſand ſix hundred ſixty and ſix, no Linen Cloath ſhall be woven in this Kingdom, which ſhall not be at the leaſt Three quarters of a yard broad out of the Loom, And that from and after the firſt day of <hi>February,</hi> in the year, One thouſand ſix hundred ſixty and ſix, no Linen Cloath under the aforeſaid breadth of Three quarters of a yard ſhall be bought, ſold, or expoſed to ſale in any place within this Kingdom, and that every perſon in this Kingdom, who after the reſpective times aforeſaid ſhall weave, buy or ſell, or expoſe to ſale, any Linen Cloath vnder the aforeſaid breadth, ſhall loſe and forfeit for every ſuch piece of Cloath ſo woven, bought, ſold, or expoſed to ſale, the ſum of Twenty ſhillings. And be it further Enacted by the Authority aforeſaid, That at every <hi>Lent</hi> Aſſizes to be yearly held in every County within this Kingdom, for the ſpace of Twenty years from the time of the paſſing of this Act, the ſum of
+<pb facs="tcp:104828:2"/>
+Twenty pounds <hi>ſterling</hi> ſhall be by the Grand Iury of every County, applotted upon the ſeveral Baronies of every ſuch County, and upon the ſeveral Pariſhes in every County of a City in this Kingdom, except onely the County of <hi>Dublin,</hi> and County of the City of <hi>Dublin,</hi> and County of <hi>Kerry,</hi> wherein the ſaid Applotment is to be made at the next Seſſions of the Peace that ſhall be yearly held after <hi>Eaſter</hi> in the ſaid Counties, and a copy of ſuch Ap<g ref="char:EOLhyphen"/>plotment made within four days after the end of ſuch Aſſizes or Seſſions, ſhall be by the re<g ref="char:EOLhyphen"/>ſpective Clerks of the Peace of each County delivered to the reſpective Sheriffs of every ſuch County wherein ſuch Applotment ſhall be made, under the hand of ſuch Clerk of the Peace, or his Deputy, under the penalty of the ſum of One hundred pounds to be forfeited to His Maje<g ref="char:EOLhyphen"/>ſtie by every Clerk of the Peace neglecting the ſame, And that every Sheriff of every County of a City in this Kingdom, ſhall according to ſuch Applotment ſo delivered unto him, or in de<g ref="char:EOLhyphen"/>fault of ſuch Applotment yearly made, according to the laſt Applotment that was thereof made by the Grand Iury of the ſaid County wherein he ſhall be Sheriff, equally and indifferently raiſe and levy the ſaid ſum of Twenty pounds, out of the ſeveral Baronies, Pariſhes, Lands and Tenements in his County, ſo as to have the ſame ready at the next Summer Aſſizes yearly in the ſeveral Counties of this Kingdom, except the County, and County of the City of <hi>Dublin</hi> yearly, and ſo as the reſpective Sheriffs of the ſaid County, and County of the City of <hi>Dublin</hi> yearly, have the ſame ready at the next Seſſions of the Peace to be held in the ſaid Counties after Trinity Term yearly; And for the better encouragement of all perſons imployed in the Manufacture of Linen Cloath, to excel each other in the Improvement thereof, Be it further Enacted by the Authority aforeſaid, That at the ſaid Summer Aſſizes and Seſſions aforeſaid, it ſhall and may be lawful for all and every perſon and perſons in this Kingdom, to bring unto the ſaid Aſſizes and Seſſions any ſuch pieces of Linen Cloath, as have been made in the County wherein ſuch Aſſizes or Seſſions ſhall be holden, of the growth, ſpinning, weaving and bleaching of the ſaid County, which ſaid pieces of Cloath ſhall contain Thirty ells at the leaſt in the length, and one yard at the leaſt in the breadth out of the loom, And that the ſaid Grand Iury ſhall conſider of the fineneſs and goodneſs of the ſeveral pieces of ſuch linen cloath which ſhall be ſo brought unto them, and ſhall be made appear before them to have been made in the County for which the ſaid Grand Iury ſhall ſerve, and ſhall adjudge which are the three fineſt and beſt pieces of ſuch linen cloath, And alſo which of the ſaid Three pieces is the beſt and fineſt, and which the next thereunto, and which is the worſt of the ſaid Three pieces, and ſhall ſet down their judgements concerning the ſame in writing, and preſent the ſame unto the Court, to be there approved on. And after ſuch judgement and approbation ſo had and given, the Sheriff of the ſaid County ſhall out of the ſaid Twenty pounds (ſo by him raiſed in man<g ref="char:EOLhyphen"/>ner abovementioned) forthwith in open Court (ſitting the Court) pay, or cauſe to be paid to the perſon who brought the beſt and fineſt of the ſaid pieces of linen cloath, the ſum of Ten pounds <hi>ſterling,</hi> and to him who brought the piece which ſhall be next thereunto in goodneſs and fineneſs, the ſum of Six pounds <hi>ſterling,</hi> and to him who brought the worſt of the ſaid three pieces, the ſum of Four pounds <hi>ſterling,</hi> upon pain that every Sheriff making default in any of the ſaid payments, ſhall loſe and forfeit the ſum of One hundred pounds <hi>ſterling,</hi> And after ſuch judgement and approbation had and given concerning the ſaid pieces of linen cloath, the ſaid three pieces which ſhall be ſo adjudged and approved of to be the fineſt pieces, ſhall in open Court (ſitting the Court) be cut in two equal moyeties, ſo that the ſame may not be made uſe of again upon any ſuch occaſion in any ſucceeding year, and immediately redelivered to the perſon that brought the ſaid cloath into Court. And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That the ſum of Six thouſand pounds be raiſed out of, and levied in and throughout the ſeveral Cities, Towns and Counties in this Kingdom, to be rated, taxed, aſſeſſed and levied in and throughout the ſaid ſeveral Cities, Towns and Counties in this Kingdom, in ſuch manner, and after ſuch proportions, and to be paid by ſuch perſons, ways and means, and at ſuch times as both Houſes of Parliament, now aſſembled in this Kingdom, ſhall agree upon, and ſet down and appoint; And in caſe the ſaid Parliament ſhall be diſſolved before ſuch apportion<g ref="char:EOLhyphen"/>ment ſhall be by them made, that then it ſhall and may be lawful for the Lord Lieutenant, Lord Deputy, or other chief Governor or Governors of this Kingdom for the time being, and Council, to cauſe the ſaid Six thouſand pounds to be raiſed and levied in and throughout this Kingdom, in ſuch manner, and after ſuch proportions, and to be paid by ſuch perſons, ways and means, and at ſuch times, as the ſaid Lord Lieutenant, Lord Deputy, or other chief Governor or Governors of this Kingdom and Council, ſhall think fit, the ſame to be levied by way of Diſtreſs. And to the end and purpoſe, that with the ſaid moneys ſo raiſed a Bleaching yard be purchaſed, containing about four acres of Land, of One and twenty foot to the perch, in ſome commodious place in each of the four Provinces of this Kingdom, and a Stone or Brick wall of convenient height, may be erected about the ſame, and ſome River in ſeveral ſtreams may be made to have its courſe through each Bleaching yard, And that Tenements may therein be erected to receive and contain ſuch poor people, or idle vagrant perſons and beggars, as ſhall come or be ſent thither to work, by the Iuſtices of Peace of the ſaid ſeveral Provinces, who are hereby authorized to ſend thither any idle vagrant perſons and beggars, al<g ref="char:EOLhyphen"/>though the ſaid Bleaching yard be not erected within the County wherein they are Iuſtices of Peace, and that a convenient number of Calenders may there have houſe room and imploy<g ref="char:EOLhyphen"/>ment; And be it further Enacted by the Authority aforeſaid, That it ſhall and may be lawful for the ſaid Lord Lieutenant, Lord Deputy, or other chief Governor or Governors, and Coun<g ref="char:EOLhyphen"/>cil of this Kingdom for the time being, to imploy a perſon or perſons skilful in bleaching and calendering, who ſhall bleach all linen cloath that ſhall be brought, at ſuch rates, not exceed<g ref="char:EOLhyphen"/>ing one peny for each Ell, as ſhall be by them appointed and ſet down, and ſecure and ſtand to the hazard of all linen that ſhall be there brought to him or them, and ſhall there give en<g ref="char:EOLhyphen"/>tertainment to a competent number of Weavers, that they may bring up poor children there in weaving, and other Imployments relating to the ſaid Linen Trade, and compel the ſturdy Vagrants that ſhall by the Iuſtices of Peace be ſent thither to work, as to them the ſaid Weavers ſhall ſeem meet, And for the better effecting and compaſſing of the aforeſaid ends, it ſhall and may be lawful for the ſaid Lord Lieutenant, Lord Deputy, and other chief Go<g ref="char:EOLhyphen"/>vernor or Governors and Council of this Kingdom for the time being to proceed in all mat<g ref="char:EOLhyphen"/>ters aforeſaid, in ſuch manner, and by ſuch ways and means, and to imploy therein ſuch per<g ref="char:EOLhyphen"/>ſons, and grant to them ſuch Commiſſions and Inſtructions, as to them ſhall ſeem moſt expe<g ref="char:EOLhyphen"/>dient, for receiving of the ſaid Six thouſand pounds, and for the purchaſing, building and pre<g ref="char:EOLhyphen"/>paring, and ordering of the ſaid Bleaching yards, and ſuch other things, as may moſt con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to the better carrying on of the ſaid work. And be it further Enacted by the Authority aforeſaid, That all Weavers in this Kingdom, who ſhall uſe no other Trade beſides the ſaid Trade of weaving, ſhall for the ſpace of ſeven years from the paſſing of this Act, be freed from ſerving in any Iuries, or bearing any other Offices in this Kingdom, which they themſelves ſhall not be willing to undergo. And be it Enacted, That all the fines and penalties aforeſaid, excepting the fines and penalties charged on Sheriffs, ſhall be divided in manner fol<g ref="char:EOLhyphen"/>lowing <hi>(viz.)</hi> the one moyety to the uſe of His Maieſtie, His Heirs and Succeſſors, and the other moyetie to the uſe of any that will inform for the ſame, and as to the ſaid fines or penal<g ref="char:EOLhyphen"/>ties charged on Sheriffs, one third part thereof to be to the uſe of His Majeſtie, His Heirs and Succeſſors, one other third part to be to the uſe of the poor of the County wherein ſuch Sheriff ſhall be Sheriff, and to be diſtributed to the poor in ſuch way and manner, as the Iuſtices of
+<pb facs="tcp:104828:3"/>
+Peeace of the reſpective Counties ſhall appoint, and the other third part to be to the uſe of the perſon or perſons that ſhall inform for the ſame, In which ſeveral Informations, no Protection, Eſſoyn or Wager of Law is to be admitted; And that the Iudges of Aſſize, Iuſtices of the Peace at their Seſſions, and all and every Officer and Officers within Cities and Corporate Towns, having Authority to be Iuſtices of Peace, or of Gaol Delivery within the ſaid Cities and Cor<g ref="char:EOLhyphen"/>porate Towns, ſhall and may lawfully enquire, hear and determine all and ſingular the pre<g ref="char:EOLhyphen"/>miſes fineable as aforeſaid.]</p>
+            <p>And whereas We the Lord Lieutenant have received His Majeſties Letters dated at His Court at <hi>Whitehal</hi> the Twelfth day of <hi>December,</hi> in the Eighteenth year of His Majeſties Reign 1666. wherein His Majeſtie hath ſignified, That whereas in one Act of Parliament lately paſſed in His Majeſties Kingdom of <hi>Ireland,</hi> intituled, <hi>An Act for the advancement of the Trade of Linen Manufacture,</hi> there are ſeveral Penalties, Fines and Forfeitures mentioned and ex<g ref="char:EOLhyphen"/>preſſed, many of which are already incurred, and more are hereafter likely to incur, before His Majeſties Subjects can have notice of what is required from them by the ſaid Act, or ſufficient warning can be given unto them to conform themſelves thereunto, whereby great trouble and prejudice is likely to happen to many of His Majeſties good Subjects in this Kingdom, if the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Penalties, Fines and Forfeitures ſhould be levied, His Majeſtie therefore for the eaſe of His <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> herein hath thought fit, and in and by His ſaid Letters hath given unto Vs His Lieu<g ref="char:EOLhyphen"/>tenant, full power and authority, by and with the advice of His Majeſties privy Council in this Kingdom, from time to time as We His Majeſties ſaid Lieutenant ſhall finde occaſion, to diſ<g ref="char:EOLhyphen"/>penſe with, mitigate or diſcharge all or any of the ſaid Penalties, Fines and Forfeitures in the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d Act mentioned or expreſſed, as well for the time paſt as to come, in ſuch manner, and for <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch time as We ſhall think fit.</p>
+            <p>Now to the end His Majeſties Subjects may partake of His Majeſties grace and favour in<g ref="char:EOLhyphen"/>tended towards them in and by His ſaid Letters, We think fit hereby to declare, That all ſuch Penalties, Fines and Forfeitures mentioned in the ſaid Act, as have incurred before the date hereof, ſhall be, and hereby are abſolutely remitted and diſcharged; And We do further de<g ref="char:EOLhyphen"/>clare, That as to the ſeveral times appointed by the ſaid Act for the ſeveral matters enſuing <hi>(viz.)</hi> for the ſetting of Cottages, <hi>&amp;c.</hi> the plowing, and tilling, and ſowing of Land with flax, the making of all linen Cloathes (which ſhall be woven or ſold) of the due breadth and length appointed by the ſaid Act, as alſo the applotting and raiſing of moneys in the ſeveral Counties of this Kingdom, and in the reſpective Counties of the Cities of this Kingdom, and touching the payment &amp; iſſuing of the ſame by the reſpective Sheriffs, the ſaid ſeveral &amp; reſpective times ſhall be, and hereby are inlarged ſeverally, for the ſpace of one whole year, to commence from the ſe<g ref="char:EOLhyphen"/>veral and reſpective times which are particularly ſet down for doing of the ſame, in and by the ſaid Act. And We do hereby require all perſons concerned, to take notice of the reſpective Periods and Inlargements of time hereby limited, and to do, perform and execute all ſuch matters and things touching the premiſes, within the reſpective times hereby limited for do<g ref="char:EOLhyphen"/>ing of the ſame, according to the ſeveral rules, orders and directions preſcribed in the ſaid Act, as they will anſwer the contrary at their perils, and avoid the Fines, Penalties and Forfeitures which may befal them for not obſerving the ſame.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin,</hi>
+                  <date>the 22 day of <hi>February,</hi> 1666.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ja. Armachanus.</item>
+                     <item>Meath.</item>
+                     <item>Fra. Aungier.</item>
+                     <item>Mich. Dublin. Canc.</item>
+                     <item>Arran.</item>
+                     <item>Kingſton.</item>
+                     <item>Oſſory.</item>
+                     <item>Dungannon.</item>
+                     <item>Robert Forth.</item>
+                     <item>Roſcomon.</item>
+                     <item>Hen. Midenſis.</item>
+                     <item>Theo. Jones.</item>
+                  </list>
+               </signed>
+               <lb/>GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>John Crooke,</hi> Printer to the Kings Moſt Excellent Majeſtie, and are to be ſold by <hi>Samuel Dancer</hi> in <hi>Caſtleſtreet.</hi> 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
